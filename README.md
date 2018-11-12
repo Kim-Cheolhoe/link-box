@@ -2,7 +2,7 @@
 open source robot and AI
 Download and Install 
 
-< Refer : S4A.cat >
+< Refer : http://S4A.cat >
 
 Installing S4A requires you to install software both in your PC and your Arduino board. Here you'll find the detailed steps to get it up and running.
 
