@@ -1,6 +1,7 @@
 # link-box-Robot
 open source robot and AI
-Download and Install 
+
+1. Download and Install Aduino Interface Scratch Program
 
 < Refer : http://S4A.cat >
 
